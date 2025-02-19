@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Backend.<br>👯 I’m looking to collaborate on Frontend.<br>🌱 I’m currently learning more about Java.<br>💬 Ask me about Frontend or Backend related stuff.<br>😊 Pronouns: He/His <br>⚡ Fun fact: I spend almost 2hours listening to songs every day.<br>💻 I'm MERN Full-Stack Web Developer.
-
+🔭 I’m currently working on Backend.<br>👯 I’m looking to collaborate on Frontend.<br>🌱 I’m currently learning more about Java.<br>💬 Ask me about Frontend or Backend related stuff.<br>😊 Pronouns: He/His <br>⚡ Fun fact: I spend almost 2hours listening to songs every day.<br>💻 I'm MERN Full-Stack Web Developer.<br> 📔 I regularly write articles on [hashnode](https://hashnode.com/@surajprasad)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itzzrealsuraj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SurajPrasad) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@learn_programming_1200) 
